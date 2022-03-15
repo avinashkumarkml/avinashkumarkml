@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # avinashkumarkml
 <h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer from India.I'm enthusiastic about learning new technologies and also solving problems in mathematics to solving problems in software engineering,I have developed excellent problem-solving skill that is necessary to solve complex problems.This skill also help me to solve Data structure and algorithms problems.</h3>
