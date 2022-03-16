@@ -24,7 +24,7 @@
 <p align="center"><img alt="Suraj Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajmicky&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
        
 </p>
->>>>>>> 316ea13e771bf28dae7b34ed9903d7ca0519d32e
+
  
 
 ## 📊 My Github Stats
