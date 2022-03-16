@@ -7,7 +7,7 @@
  - 🌱 I’m currently learning *MERN Stack*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 <!-- - 🌱 I’m currently learning various new technologies. -->
- - 👨‍💻 All of my projects are available at **[My Portfolio](https://keen-ptolemy-e7f27f.netlify.app/)**
+ - 👨‍💻 All of my projects are available at **[My Portfolio](https://avinash-portfolio-avinashkumarkml.vercel.app/#/)**
 <!--  - 📫 How to reach me *theavinashbhardwaj@gmail.com* -->
 - 💬 Ask me about anything, I am happy to help;
 
