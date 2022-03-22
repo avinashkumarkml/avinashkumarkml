@@ -1,5 +1,5 @@
 ![MasterHead](https://cdn.computercareers.org/wp-content/uploads/Become-a-Web-Developer.jpg)
-<h1 align="center">Hi 👋, I'm Danish Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://qphs.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
 
@@ -12,22 +12,19 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/danish4git?tab=repositories](https://github.com/danish4git?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/danish4git?tab=repositories](https://github.com/avinashkumarkml?tab=repositories)
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **danish4eng@gmail.com**
+- 📫 How to reach me **theavinashbhardwaj@gmail.com**
 
 - ⚡ Fun fact **I watch the funny videos often.**
 
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/danish4eng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danish4eng" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/danish-ahmed-9b12b7158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/danish-ahmed-9b12b7158" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18289742/danish-ahmed?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18289742/danish-ahmed?tab=profile" height="30" width="40" /></a>
 <a href="https://codesandbox.com/danish4eng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="danish4eng" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/danish4insta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/danish4insta/" height="30" width="40" /></a>
 <a href="https://medium.com/@danish4eng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@danish4eng" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/danish4eng/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/danish4eng/" height="30" width="40" /></a>
 </p></br>
