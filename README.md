@@ -14,7 +14,7 @@ I have Bachelors degree in Arts. Dedicated  and  determined  aspiring  full-stac
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif"></img>
 
-- 🌱 I’m currently learning **Full Stack course**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **ReactJs, HTML, CSS, JavaScipt**
 
