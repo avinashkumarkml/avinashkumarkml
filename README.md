@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/danish4git?tab=repositories](https://github.com/avinashkumarkml?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/avinashkumarkml?tab=repositories](https://github.com/avinashkumarkml?tab=repositories)
 
 - 💬 Ask me about **react**
 
@@ -26,8 +26,7 @@
 <a href="https://linkedin.com/in/linkedin.com/in/danish-ahmed-9b12b7158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/danish-ahmed-9b12b7158" height="30" width="40" /></a>
 <a href="https://codesandbox.com/danish4eng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="danish4eng" height="30" width="40" /></a>
 <a href="https://medium.com/@danish4eng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@danish4eng" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/danish4eng/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/danish4eng/" height="30" width="40" /></a>
-</p></br>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
