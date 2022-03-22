@@ -22,7 +22,7 @@ I have Bachelors degree in Arts. Dedicated  and  determined  aspiring  full-stac
 
 - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/10iXa_b78UtBasI2ZObJ-fH8DEe65_zIu/view?usp=sharing)
 
-- 👨‍💻 All of my projects are available at [Link](https://avinashkumarkml.github.io/PortFolio/)
+- 👨‍💻 - 👨‍💻 All of my projects are available at *[My Portfolio](https://avinash-portfolio-avinashkumarkml.vercel.app/#/)*
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
