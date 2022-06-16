@@ -4,19 +4,19 @@
 <h1 style="color:blue" align="right">Hi 👋, I'm Avinash Kumar
    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px" style="max-width: 100%;"></a>
 </h1>
-<h3 align="right">MERN Stack Developer</h3>
+<h3 align="right">Front End Developer</h3>
 <br><br>
 
 # Brief about me...!!!
-I have Bachelors degree in Arts. Dedicated  and  determined  aspiring  full-stack developer with a specialization  in MERN stack. Seeking challenging  opportunities  to make  the  best  use  of my abilities  and  knowledge  to  develop  both  my professional and interpersonal skills, along with fulfilling the organization's growth and goals.
+I have Bachelors degree in Arts. Dedicated  and  determined  aspiring  web developer with a specialization  in front end development. Seeking challenging  opportunities  to make  the  best  use  of my abilities  and  knowledge  to  develop  both  my professional and interpersonal skills, along with fulfilling the organization's growth and goals.
 <br><br>
 
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif"></img>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Front End Web Development**
 
-- 💬 Ask me about **ReactJs, HTML, CSS, JavaScipt**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJs, Redux,**
 
 - 📫 How to reach me **theavinashbhardwaj@gmail.com**
 
