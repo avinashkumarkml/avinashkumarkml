@@ -20,7 +20,7 @@ I have Bachelors degree in Arts. Dedicated  and  determined  aspiring  web devel
 
 - 📫 How to reach me **theavinashbhardwaj@gmail.com**
 
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/10iXa_b78UtBasI2ZObJ-fH8DEe65_zIu/view?usp=sharing)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1HcRmY2UPM9m57C2-9Ohggpa5asqDu9p4/view?usp=sharing)
 
 - 👨‍💻 - 👨‍💻 All of my projects are available at *[My Portfolio](https://avinash-portfolio101.netlify.app/#/)*
 <br>
