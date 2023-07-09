@@ -22,7 +22,7 @@ I'm a Front-End Web Developer skilled in ReactJs. My passion for software lies w
 
 - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1HcRmY2UPM9m57C2-9Ohggpa5asqDu9p4/view?usp=sharing)
 
-- 👨‍💻 - 👨‍💻 All of my projects are available at *[My Portfolio](https://avinash-portfolio101.netlify.app/#/)*
+- 👨‍💻 - 👨‍💻 All of my projects are available at *[My Portfolio](https://avinash-final-portfilio.netlify.app/#/)*
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
