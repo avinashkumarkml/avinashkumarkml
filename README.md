@@ -8,7 +8,7 @@
 <br><br>
 
 # Brief about me...!!!
-I have Bachelors degree in Arts. Dedicated  and  determined  aspiring  web developer with a specialization  in front end development. Seeking challenging  opportunities  to make  the  best  use  of my abilities  and  knowledge  to  develop  both  my professional and interpersonal skills, along with fulfilling the organization's growth and goals.
+I'm a Front-End Web Developer skilled in ReactJs. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code.
 <br><br>
 
 
