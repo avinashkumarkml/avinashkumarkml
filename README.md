@@ -13,10 +13,15 @@
 🔗 Recent Achievements:
 
 Successfully tackled intricate coding challenges, showcasing problem-solving prowess.
+<br><br>
 Elevated user engagement and site performance, contributing to organizational triumph.
+<br><br>
 Transformed design concepts into responsive, user-centric web solutions.
+<br><br>
 Collaborated with cross-functional teams to deliver innovative and impactful projects.
+<br><br>
 Committed to advancing user-centric design principles and pushing the boundaries of web development.
+<br><br>
 Let's connect and bring your visionary web ideas to life! 🌐🤝
 
 <br><br>
